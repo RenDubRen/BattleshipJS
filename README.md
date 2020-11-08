@@ -1,0 +1,3 @@
+# BattleshipJS
+
+project from book
